@@ -1,0 +1,40 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    
+}
+*{
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+    background-color: rgb(237, 225, 244);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+}
+.links{
+    width: auto;
+    height: 60px;
+    text-align: center;
+   
+    
+}
+button{
+    background-color: rgb(142, 2, 110);
+    margin-top: 20px;
+    border: 1px solid rgb(3, 3, 3);
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 0px 30px;
+
+}
